@@ -4,4 +4,5 @@ If "I'm" is found in a tweet, twitterDadBot will automatically tweet back saying
 
 For example:
 @personA tweets "I'm so hungry I could eat a horse" 
+
 twitterDadBot tweets back @personA "Hello 'so hungry I could eat a horse', my name is Dad!"
